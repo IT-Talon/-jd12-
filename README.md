@@ -1,9 +1,9 @@
-# 这是一张jd12期免息卷引发的血案
+# 这是一张jd12期免息券引发的血案
 
 - 点击领息券后出来下图界面
 
 ![领券图](http://i2.bvimg.com/605658/7ac4f7051f377099.png)
-点击‘我知道了’没有反应，就很气。然后谢了一段js代码，把它搞掉了...(这货model拼错了?)
+点击‘我知道了’没有反应，就很气。然后写了一段js代码，把它搞掉了...
 
 ```js
 var btn = document.getElementById('m-modal').lastChild.firstChild;
